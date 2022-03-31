@@ -12,12 +12,12 @@ Users can customise the training of the model. Or use it for inference providing
 
 The dataset is included in this repo. It was orginally taken from Kaggle  (https://www.kaggle.com/c/dat300-2018-concrete)
 
-There are 2 main parts to this project
+## There are 2 main parts to this project
 
-ConcreteTreeRegression.py
+### ConcreteTreeRegression.py
 This is the script you should run if you wish to start training the model.
 
-models.py
+### models.py
 This is  where model parameters can be set. If you wish to train the model with different settings to achieve a better result you can here.
 
 
