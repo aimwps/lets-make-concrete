@@ -22,6 +22,7 @@ entry = {   'cement': [],
             'Age': [],
         }
 
+
 def print_menu_options():
     for key_code, action in MENU_OPTIONS.items():
         print(f"Hit {key_code}: {action}")
